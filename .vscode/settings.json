@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.css": "tailwindcss",
+		"typeinfo": "c",
+		"__bit_reference": "c",
+		"bitset": "c",
+		"vector": "c",
+		"assert.h": "c"
+	}
+}

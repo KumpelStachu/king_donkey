@@ -1,0 +1,40 @@
+Player
+pos(1 22)
+
+Enemy
+pos(2 3)
+
+Woman
+pos(16 0)
+
+Platform
+pos(0 18)
+size(30 1)
+
+Ladder
+pos(30 18)
+size(2 5)
+
+Platform
+pos(2 13)
+size(30 1)
+
+Ladder
+pos(0 13)
+size(2 5)
+
+Platform
+pos(0 8)
+size(30 1)
+
+Ladder
+pos(30 8)
+size(2 5)
+
+Platform
+pos(15 3)
+size(6 1)
+
+Ladder
+pos(21 0)
+size(2 5)
